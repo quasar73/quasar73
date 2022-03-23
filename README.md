@@ -17,6 +17,6 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quasar73&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quasar73&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=818181&currStreakLabel=FF7C57&sideNums=D1D1D1&sideLabels=D1D1D1&ring=FF7C57&fire=FF7C57&border=D5D5D5)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasar73&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasar73&layout=compact&bg_color=0D1117&text_color=d1d1d1&title_color=d1d1d1&border_color=8f8f8f)](https://github.com/anuraghazra/github-readme-stats)
